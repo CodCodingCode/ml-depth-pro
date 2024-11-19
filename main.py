@@ -78,3 +78,6 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 cv2.imwrite("inverted_depth_map.jpg", depth_colormap)
+
+
+print("ello")
